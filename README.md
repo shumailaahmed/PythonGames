@@ -1,2 +1,2 @@
 # PythonGames
-easy funn games for kids to play and code
+Easy fun games for kids to play and code
